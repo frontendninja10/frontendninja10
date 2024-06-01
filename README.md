@@ -1,9 +1,10 @@
-## About me
-I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. I prioritize excellence, simplicity, and speed while building software. 
+## About Me
+I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. When I'm building software, I prioritize excellence, simplicity, and speed.
 
-### My strengths
-- Studying documentations and making comprehensive notes.
+## What I Enjoy
+- Studying documentations and making notes.
 - Learning! Learning! Learning!
+- Contributing to Open Source.
 
 <!--
 **frontendninja10/frontendninja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
