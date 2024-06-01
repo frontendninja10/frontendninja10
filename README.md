@@ -7,6 +7,7 @@ I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web D
 - Contributing to Open Source.
 
 ## Blog Posts
+- [Empower your web apps with Firebase](https://babafemijk.hashnode.dev/empower-your-web-apps-with-firebase)
 
 <!--
 **frontendninja10/frontendninja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
