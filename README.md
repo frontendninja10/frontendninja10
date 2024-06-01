@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Kuku Babafemi, a skilled Software Engineer specializing in frontend web development.
+I'm Kuku Babafemi, a skilled software engineer specializing in frontend web development. I prioritize excellence, simplicity and user-friendliness while building software.
 
 <!--
 **frontendninja10/frontendninja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
