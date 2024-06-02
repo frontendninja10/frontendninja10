@@ -1,15 +1,20 @@
 ## About Me
+
 I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. When I'm building software, I prioritize excellence, simplicity, and speed.
 
 ## What I Enjoy
+
 - Studying documentation and making notes.
 - Learning! Learning! Learning!
 - Contributing to Open Source.
 
 ## Blog Posts
+
 - [Empower your web apps with Firebase](https://babafemijk.hashnode.dev/empower-your-web-apps-with-firebase)
 - [Understanding the difference between interfaces, classes, and objects in JavaScript](https://babafemijk.hashnode.dev/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript)
 - [Building a Landing Page with Chakra UI and Framer Motion](https://babafemijk.hashnode.dev/building-a-landing-page-with-chakra-ui-and-framer-motion-my-experience-as-a-react-developer)
+
+<img src="/images/overhol.jpg" />
 
 <!--
 **frontendninja10/frontendninja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
