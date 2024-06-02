@@ -2,7 +2,7 @@
 
 I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. When I'm building software, I prioritize excellence, simplicity, and speed.
 
-## I Enjoy...
+## I enjoy...💆🏽‍♂️
 
 - Studying documentation and making notes.
 - Learning! Learning! Learning!
