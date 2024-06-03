@@ -10,7 +10,7 @@ I’m Babafemi Jimoh-Kuku, a Software Engineer with 2 years of experience in Fro
 
 **You can connect with me on:**
    - Twitter: [@frontendninja10](https://x.com/frontendninja10)
-   - LinkedIn: [@Babafemi Jimoh-Kuku](https://www.linkedin.com/in/babafemijk/)
+   - LinkedIn: [@babafemijk](https://www.linkedin.com/in/babafemijk/)
 
 <hr />
 
