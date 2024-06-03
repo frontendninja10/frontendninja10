@@ -33,6 +33,8 @@ I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web D
 - Learning and gaining new insights.
 - Contributing to Open Source.
 
+<hr />
+
 🚀 **You can connect with me on:**
    - Twitter: [@frontendninja10](https://x.com/frontendninja10)
    - LinkedIn: [@Babafemi Jimoh-Kuku](https://www.linkedin.com/in/babafemijk/)
