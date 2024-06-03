@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. When I'm building software, I prioritize excellence, simplicity, and speed.
+I’m Babafemi Jimoh-Kuku, a Software Engineer with 2 years of experience in Frontend Web Development. I prioritize excellence, simplicity and speed with a goal to deliver high-quality work that exceed expectations. 
 
 #### I Enjoy 🚀
 
