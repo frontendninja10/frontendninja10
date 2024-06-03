@@ -2,7 +2,7 @@
 
 I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web Development. When I'm building software, I prioritize excellence, simplicity, and speed.
 
-## Recent Projects
+## My Recent Projects
 
 <table>
 <tr>
@@ -21,7 +21,7 @@ I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web D
 </tr>
 </table>
 
-## Recent Blog Posts
+## My Recent Blog Posts
 
 - [Empower your web apps with Firebase](https://babafemijk.hashnode.dev/empower-your-web-apps-with-firebase)
 - [Understanding the difference between interfaces, classes, and objects in JavaScript](https://babafemijk.hashnode.dev/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript)
@@ -33,7 +33,7 @@ I'm Kuku Babafemi, a proficient Software Engineer specializing in Frontend Web D
 - Learning and gaining new insights.
 - Contributing to Open Source.
 
-* 🚀 **You can connect with me on:**
+🚀 **You can connect with me on:**
    - Twitter: [@frontendninja10](https://x.com/frontendninja10)
    - LinkedIn: [@Babafemi Jimoh-Kuku](https://www.linkedin.com/in/babafemijk/)
 
