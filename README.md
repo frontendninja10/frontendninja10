@@ -1,6 +1,6 @@
 ## About Me
 
-I’m Babafemi Jimoh-Kuku, a Software Engineer with 2 years of experience in Frontend Web Development. I prioritize excellence, simplicity and speed with a goal to deliver high-quality work that exceed expectations. 
+I’m Babafemi Jimoh-Kuku, a Software Engineer with 2 years of professional experience in building user interfaces for digital web products. I prioritize excellence, simplicity and speed with a goal to deliver high-quality work that exceed expectations. 
 
 #### I Enjoy 🚀
 
