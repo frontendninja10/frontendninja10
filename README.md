@@ -16,7 +16,7 @@ I’m Babafemi Jimoh-Kuku, a Software Engineer with over 3 years of professional
 <hr />
 
 ## My Learning Adventures
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/2be3c18e-f898-4da5-99ce-056f4a158609/thumbnail" >
 </p>
 
