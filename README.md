@@ -16,9 +16,24 @@ I’m Babafemi Jimoh-Kuku, a Software Engineer with over 3 years of professional
 <hr />
 
 ## My Learning Adventures
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/2be3c18e-f898-4da5-99ce-056f4a158609/thumbnail" width="400">
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/total-typescript/image/upload/v1729722107/certificate/97415610-3731-4266-a954-c8be65789aad/beginners-typescript.png" width="350"><br>
+      <strong>Beginner's TypeScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://res.cloudinary.com/total-typescript/image/upload/v1713648966/certificate/97415610-3731-4266-a954-c8be65789aad/zod.png" width="350"><br>
+      <strong>Zod Mastery</strong>
+    </td>
+  </tr>
+</table>
+
 
 <hr />
 
