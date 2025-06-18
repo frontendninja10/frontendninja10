@@ -13,8 +13,6 @@ I’m Babafemi Jimoh-Kuku, a Software Engineer with over 3 years of professional
    - LinkedIn: [@babafemijk](https://www.linkedin.com/in/babafemijk/)
    - Website: [www.babafemijkuku.com](https://www.babafemijkuku.com/)
 
-<hr />
-
 ## My Learning Adventures
 
 <p align="left">
@@ -33,9 +31,6 @@ I’m Babafemi Jimoh-Kuku, a Software Engineer with over 3 years of professional
     </td>
   </tr>
 </table>
-
-
-<hr />
 
 ## Blog Posts
 - [Forms Without the Stress: React Hook Form Does It Best!](https://www.babafemijkuku.com/blog/forms-without-the-stress)
