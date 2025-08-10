@@ -1,21 +1,25 @@
-## About Me
+## Hi, I'm Babafemi
+#### About me:
+- **Frontend Engineer** with 4+ years building performant, user-focused web applications.
+- Currently exploring **Golang** for backend development.
+- Outside coding, I’m reading, learning, or writing for my blog.
 
-I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professional experience in building user interfaces for digital web products. I prioritize excellence, simplicity and speed with a goal to deliver high-quality work that exceed expectations. 
+#### Highlights
 
-#### I Enjoy 🚀
-
-- Studying documentation and making notes.
-- Learning and gaining new insights.
-- Contributing to Open Source.
-
-**You can connect with me on:**
-   - Twitter: [@frontendninja10](https://x.com/frontendninja10)
-   - LinkedIn: [@babafemijk](https://www.linkedin.com/in/babafemijk/)
-   - Website: [www.babafemijkuku.com](https://www.babafemijkuku.com/)
+- Improved component update time in React from 12–25 ms to <7 ms using memoization & render optimizations — a 60%+ performance boost.
+- Built a fullstack Sermon Management Platform with NestJS, MongoDB & Next.js with JWT authentication.
+- Stepped in for backend developers on multiple occasions, delivering APIs and backend features to keep projects moving.
 
 <br />
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian)
+
+---
+
+**You can connect with me on:**
+   - X: [@frontendninja10](https://x.com/frontendninja10)
+   - LinkedIn: [@babafemijk](https://www.linkedin.com/in/babafemijk/)
+   - Portfolio: [www.babafemijkuku.com](https://www.babafemijkuku.com/)
 
 <!--
 ## My Learning Adventures
