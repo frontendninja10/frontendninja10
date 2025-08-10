@@ -15,6 +15,8 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
 
 <br />
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10)](https://github.com/frontendninja10/github-readme-stats)
+
 ## My Learning Adventures
 
 <p align="left">
