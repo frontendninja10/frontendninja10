@@ -1,5 +1,7 @@
 ## Hi, I'm Babafemi
+
 #### About me:
+
 - **Frontend Engineer** with 4+ years building performant, user-focused web applications.
 - Currently exploring **Golang** for backend development.
 - Outside coding, I’m reading, learning, or writing for my blog.
@@ -14,12 +16,29 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian)
 
----
+<br />
+
+## Blog Posts
+
+- [Forms Without the Stress: React Hook Form Does It Best!](https://www.babafemijkuku.com/blog/forms-without-the-stress)
+- [A beginner's guide to data fetching in React](https://www.babafemijkuku.com/blog/data-fetching)
+- [2024 in Review as a Frontend Developer](https://www.babafemijkuku.com/blog/2024-in-review)
+
+<br />
 
 **You can connect with me on:**
-   - X: [@frontendninja10](https://x.com/frontendninja10)
-   - LinkedIn: [@babafemijk](https://www.linkedin.com/in/babafemijk/)
-   - Portfolio: [www.babafemijkuku.com](https://www.babafemijkuku.com/)
+
+<p align="left">
+  <a href="https://x.com/frontendninja10" target="_blank">
+    <img src="images/x.svg" alt="X" width="32" height="32" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/babafemijk/" target="_blank">
+    <img src="images/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.babafemijkuku.com/" target="_blank">
+    <img src="assets/portfolio-icon.svg" alt="Portfolio" width="32" height="32" />
+  </a>
+</p>
 
 <!--
 ## My Learning Adventures
@@ -41,13 +60,6 @@
   </tr>
 </table>
 -->
-
-<br />
-
-## Blog Posts
-- [Forms Without the Stress: React Hook Form Does It Best!](https://www.babafemijkuku.com/blog/forms-without-the-stress)
-- [A beginner's guide to data fetching in React](https://www.babafemijkuku.com/blog/data-fetching)
-- [2024 in Review as a Frontend Developer](https://www.babafemijkuku.com/blog/2024-in-review)
 
 <!--
 - [Understanding React State Management](https://www.babafemijkuku.com/blog/react-state-management)
