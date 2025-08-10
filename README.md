@@ -1,12 +1,12 @@
-## Hi, I'm Babafemi
+## Hi, I'm Babafemi 🥷
 
-#### About me:
+#### ⚡ About me:
 
 - **Frontend Engineer** with 4+ years building performant, user-focused web applications.
 - Currently exploring **Golang** for backend development.
-- Outside coding, I’m reading, learning, or writing for my blog.
+- Outside coding, I’m reading, learning, or writing for my [blog](https://www.babafemijkuku.com/).
 
-#### Highlights
+#### 🔥 Highlights
 
 - Improved component update time in React from 12–25 ms to <7 ms using memoization & render optimizations — a 60%+ performance boost.
 - Built a fullstack Sermon Management Platform with NestJS, MongoDB & Next.js with JWT authentication.
@@ -14,7 +14,7 @@
 
 <br />
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian&hide=issues&show=prs_merged_percentage)
 
 <br />
 
@@ -34,9 +34,6 @@
   </a>
   <a href="https://www.linkedin.com/in/babafemijk/" target="_blank">
     <img src="images/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 8px;" />
-  </a>
-  <a href="https://www.babafemijkuku.com/" target="_blank">
-    <img src="assets/portfolio-icon.svg" alt="Portfolio" width="32" height="32" />
   </a>
 </p>
 
