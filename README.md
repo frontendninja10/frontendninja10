@@ -44,10 +44,13 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
 - [Forms Without the Stress: React Hook Form Does It Best!](https://www.babafemijkuku.com/blog/forms-without-the-stress)
 - [A beginner's guide to data fetching in React](https://www.babafemijkuku.com/blog/data-fetching)
 - [2024 in Review as a Frontend Developer](https://www.babafemijkuku.com/blog/2024-in-review)
+
+<!--
 - [Understanding React State Management](https://www.babafemijkuku.com/blog/react-state-management)
 - [Empower your web apps with Firebase](https://babafemijk.hashnode.dev/empower-your-web-apps-with-firebase)
 - [Understanding the difference between interfaces, classes, and objects in JavaScript](https://babafemijk.hashnode.dev/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript)
 - [Building a Landing Page with Chakra UI and Framer Motion](https://babafemijk.hashnode.dev/building-a-landing-page-with-chakra-ui-and-framer-motion-my-experience-as-a-react-developer)
+-->
 
 <!--
 ## Recent Projects
