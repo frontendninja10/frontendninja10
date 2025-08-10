@@ -17,6 +17,7 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian)
 
+<!--
 ## My Learning Adventures
 
 <p align="left">
@@ -35,6 +36,7 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
     </td>
   </tr>
 </table>
+-->
 
 <br />
 
@@ -47,6 +49,7 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
 - [Understanding the difference between interfaces, classes, and objects in JavaScript](https://babafemijk.hashnode.dev/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript)
 - [Building a Landing Page with Chakra UI and Framer Motion](https://babafemijk.hashnode.dev/building-a-landing-page-with-chakra-ui-and-framer-motion-my-experience-as-a-react-developer)
 
+<!--
 ## Recent Projects
 
 <table>
@@ -65,6 +68,7 @@ I’m Babafemi Jimoh-Kuku, a Frontend Software Engineer with 4 years of professi
 </td>
 </tr>
 </table>
+-->
 
 <!--
 **frontendninja10/frontendninja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
