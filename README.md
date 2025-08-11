@@ -9,7 +9,7 @@
 #### 🔥 Highlights
 
 - Improved component update time in React from 12–25 ms to <7 ms using memoization & render optimizations — a 60%+ performance boost.
-- Built a fullstack Sermon Management Platform with NestJS, MongoDB & Next.js with JWT authentication.
+- Built a fullstack **Sermon Management Platform** with NestJS, MongoDB & Next.js with JWT authentication.
 - Stepped in for backend developers on multiple occasions, delivering APIs and backend features to keep projects moving.
 
 <br />
