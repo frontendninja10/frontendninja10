@@ -16,15 +16,13 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendninja10&show_icons=true&theme=prussian&hide=issues&show=prs_merged_percentage)
 
-<br />
 
-#### Blog Posts
+### Blog Posts
 
 - [Forms Without the Stress: React Hook Form Does It Best!](https://www.babafemijkuku.com/blog/forms-without-the-stress)
 - [A beginner's guide to data fetching in React](https://www.babafemijkuku.com/blog/data-fetching)
 - [2024 in Review as a Frontend Developer](https://www.babafemijkuku.com/blog/2024-in-review)
 
-<br />
 
 **You can connect with me on:**
 
